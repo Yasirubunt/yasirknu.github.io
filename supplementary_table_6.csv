@@ -1,0 +1,59 @@
+CHEMBL_ID,SMILES,pIC50,Reported activity
+CHEMBL3665122,CS(=O)(=O)N1CCC(C1)Nc1ncccc1-c1cnc2[nH]ccc2n1,10.607,jak inhibitor
+CHEMBL3665128,CS(=O)(=O)N1CCC(C1)Nc1ncccc1-c1cnc2[nH]ccc2n1,10.607,jak inhibitor
+CHEMBL3665172,Cc1c[nH]c2ncc(nc12)-c1cccnc1NC1CCCN(C1)S(C)(=O)=O,10.356,jak inhibitor
+CHEMBL3665146,Cc1ccc(c(NC2CCCN(C2)S(C)(=O)=O)n1)-c1cnc2[nH]ccc2n1,10.356,jak inhibitor
+CHEMBL3665202,CN1CCN(CC1)c1ncc(c(NC2CCCN(C2)S(=O)(=O)CCC(C)(C)C)n1)-c1cnc2[nH]ccc2n1,10.322,jak inhibitor
+CHEMBL3665180,CC(C)CS(=O)(=O)N1CCCC(C1)Nc1nc(N)ncc1-c1cnc2[nH]ccc2n1,10.218,jak inhibitor
+CHEMBL3665214,CC(C)CS(=O)(=O)N1CCCC(C1)Nc1nc(ncc1-c1cnc2[nH]ccc2n1)N1CCN(C)CC1,10.192,jak inhibitor
+CHEMBL3665184,CC(C)CS(=O)(=O)N1CCCC(C1)Nc1nc(ncc1-c1cnc2[nH]ccc2n1)N1CCOCC1,10.167,jak inhibitor
+CHEMBL3665130,COC(=O)N1CCCCC(C1)Nc1ncccc1-c1cnc2[nH]ccc2n1,10.153,jak inhibitor
+CHEMBL3665152,O=S(=O)(CC1CC1)N1CCCC(C1)Nc1ncccc1-c1cnc2[nH]ccc2n1,10.115,jak inhibitor
+CHEMBL3665174,CS(=O)(=O)N1CCCC(C1)Nc1ncccc1-c1cnc2[nH]cc(Cl)c2n1,10.112,jak inhibitor
+CHEMBL3665173,CS(=O)(=O)N1CCCC(C1)Nc1ncccc1-c1cnc2[nH]cc(C3CC3)c2n1,10.066,jak inhibitor
+CHEMBL3665222,CC1CC(CN(C1)S(=O)(=O)CC#N)Nc1ncccc1-c1cnc2[nH]ccc2n1,10.062,jak inhibitor
+CHEMBL3665127,COC(=O)N1CCC(C1)Nc1ncccc1-c1cnc2[nH]ccc2n1,10.052,jak inhibitor
+CHEMBL3665121,COC(=O)N1CCC(C1)Nc1ncccc1-c1cnc2[nH]ccc2n1,10.052,jak inhibitor
+CHEMBL3665215,CC(C)CS(=O)(=O)N1CC(C)CC(C1)Nc1nc(ncc1-c1cnc2[nH]ccc2n1)N1CCN(C)CC1,10.029,jak inhibitor
+CHEMBL3665141,CC1CC(CN(C1)S(C)(=O)=O)Nc1ncccc1-c1cnc2[nH]ccc2n1,10.009,jak inhibitor
+CHEMBL3665182,CC(C)CS(=O)(=O)N1CCCC(C1)Nc1nc(ncc1-c1cnc2[nH]ccc2n1)S(C)(=O)=O,10.002,jak inhibitor
+CHEMBL3665216,CC1CC(CN(C1)S(=O)(=O)CC#N)Nc1nc(ncc1-c1cnc2[nH]ccc2n1)N1CCN(C)CC1,9.989,jak inhibitor
+CHEMBL2058744,CNc1nc(C)c(-c2cc3cc(OC)nc(C)c3o2)c(NC2CC(CO)C(O)C2O)n1,9.951,Substituted pyridine and pyrimidine derivatives and their use in treating viral infections
+CHEMBL3665151,CS(=O)(=O)N1CCCC(CC1)Nc1ncccc1-c1cnc2[nH]ccc2n1,9.946,jak inhibitor
+CHEMBL3665131,CS(=O)(=O)N1CCCCC(C1)Nc1ncccc1-c1cnc2[nH]ccc2n1,9.946,jak inhibitor
+CHEMBL1433172,CCCCn1c(SCc2nc(N)nc(n2)N2CCCCC2)nc2N(C)C(=O)N(C)C(=O)c12,9.944,GMNN - geminin DNA replication inhibitor
+CHEMBL3652262,COc1ncc(cn1)C1=Cc2c(C)nc(N)nc2N(C2CCC(CC2)OCCO)C1=O,9.937,jak inhibitor
+CHEMBL3652256,COc1ncc(cn1)C1=Cc2c(C)nc(N)nc2N(C2CCC(CC2)OCCO)C1=O,9.937,jak inhibitor
+CHEMBL3335689,CC(C)CS(=O)(=O)N1CCCC(C1)Nc1ncccc1-c1cnc2[nH]ccc2n1,9.927,jak inhibitor
+CHEMBL3665142,CCCS(=O)(=O)N1CC(C)CC(C1)Nc1ncccc1-c1cnc2[nH]ccc2n1,9.927,jak inhibitor
+CHEMBL3665168,CC(C)CS(=O)(=O)N1CCCC(C1)Nc1ncccc1-c1cnc2cc[nH]c2n1,9.927,jak inhibitor
+CHEMBL3665197,COC1CCN(CC1)c1ncc(c(NC2CCCN(C2)S(C)(=O)=O)n1)-c1cnc2[nH]ccc2n1,9.918,jak inhibitor
+CHEMBL601160,CN1c2nc(N3CCCCCC3)n(CC(O)COc3ccc(cc3)N(=O)=O)c2C(=O)NC1=O,9.915,NOVARTIS: Inhibition of Plasmodium falciparum W2 (drug-resistant) proliferation
+CHEMBL2170798,COC(=O)c1cnn(c1)-c1nc(NC(C2CC2)C2CC2)c2ncn(C3C4CC4C(O)C3O)c2n1,9.911,ADORA3 - adenosine A3 receptor (human)
+CHEMBL3665193,COCCNc1ncc(c(NC2CCCN(C2)S(C)(=O)=O)n1)-c1cnc2[nH]ccc2n1,9.906,jak inhibitor
+CHEMBL2170799,OC1C2CC2C(C1O)n1cnc2c(NC(C3CC3)C3CC3)nc(nc12)-n1cc(cn1)C(O)=O,9.904,ADORA3 - adenosine A3 receptor (human)
+CHEMBL3665203,CN(C)C1CCN(CC1)c1ncc(c(NC2CCCN(C2)S(C)(=O)=O)n1)-c1cnc2[nH]ccc2n1,9.896,jak inhibitor
+CHEMBL1304424,CN1c2nc(N3CCCCC3)n(CC(O)COc3ccc(cc3)N(=O)=O)c2C(=O)NC1=O,9.896,ATAD5 - ATPase family AAA domain containing 5 (human)
+CHEMBL3414943,CCn1nnc(n1)C1OC(C(O)C1O)n1cnc2c(NC3CC4CCC3C4)nc(Cl)nc12,9.895,ADORA1 - adenosine A1 receptor (human)
+CHEMBL1464135,CC(C)CN(C(=O)CSc1nnc2nc(C)cc(C)n12)C1=C(N)N(CC(C)C)C(=O)NC1=O,9.887,?Inhibitors of Histone Lysine Methyltransferase G9a
+CHEMBL1379052,CC(C)CN(C(=O)CSc1nc2nc(C)cc(C)n2n1)C1=C(N)N(CC(C)C)C(=O)NC1=O,9.887,GLP1R - glucagon like peptide 1 receptor (human)
+CHEMBL3125678,O=C(Nc1nc(N2CCOCC2)c2ncn(CCc3nnn[nH]3)c2n1)C1CCCCC1,9.884,Cytotoxicity against human MDA-MB-468 cells after 72 hrs by MTS assay
+CHEMBL3701289,Nc1ncnc2n(CCCCn3cc(CCCCCC4SCC5NC(=O)NC45)nn3)cnc12,9.874,Novel antimicrobial compounds
+CHEMBL1876544,CCCCN1C(=O)NC(=O)C(N(CCOC)C(=O)CCCN2C(=O)Oc3ccccc23)=C1N,9.873,GMNN - geminin DNA replication inhibitor (human)
+CHEMBL3665206,CS(=O)(=O)N1CCCC(C1)Nc1nc(ncc1-c1cnc2[nH]ccc2n1)N1CC(C1)C#N,9.865,jak inhibitor
+CHEMBL3665192,CS(=O)(=O)N1CCCC(C1)Nc1nc(NCCO)ncc1-c1cnc2[nH]ccc2n1,9.861,jak inhibitor
+CHEMBL3665195,CC(C)(O)CNc1ncc(c(NC2CCCN(C2)S(C)(=O)=O)n1)-c1cnc2[nH]ccc2n1,9.853,jak inhibitor
+CHEMBL3144271,COC1C(OP(C)(O)=O)C(COP(C)(O)=O)OC1n1cnc2c1N=C1N(C)C=NN1C2=S,9.852,Inhibitory concentration for anti-HIV activity against HIV-IIIB in CEM-SS cells
+CHEMBL1927381,CCOP(=O)(OCC)C1CC(ON1C)n1cc(Cn2cnc3c(N)ncnc23)nn1,9.847,Human herpesvirus 2 strain G
+CHEMBL1927267,CCOP(=O)(OCC)C1CC(ON1C)n1cc(Cn2cnc3c(N)ncnc23)nn1,9.847,Human herpesvirus 2 strain G
+CHEMBL100876,Nc1nc(nc2n(cnc12)C1OC(CO)C(O)C1O)-c1cnn(CCCC2CCCCC2)c1,9.834,C-pyrazole a2a receptor agonists
+CHEMBL3665189,COc1ncc(c(NC2CCCN(C2)S(C)(=O)=O)n1)-c1cnc2[nH]ccc2n1,9.824,jak inhibitor
+CHEMBL3665190,CS(=O)(=O)N1CCCC(C1)Nc1nc(Cl)ncc1-c1cnc2[nH]ccc2n1,9.822,jak inhibitor
+CHEMBL3665191,CCOc1ncc(c(NC2CCCN(C2)S(C)(=O)=O)n1)-c1cnc2[nH]ccc2n1,9.821,jak inhibitor
+CHEMBL99052,Nc1nc(nc2n(cnc12)C1OC(CO)C(O)C1O)-c1cnn(CCC2CCCCC2)c1,9.819,Myocardial perfusion imaging using adenosine receptor agonists
+CHEMBL1195913,CCCN1c2[nH]c(nc2C(=O)N(CCC)C1=O)-c1cc(NC(=O)CCCN)nn1C,9.819,Methods of treating atherosclerosis
+CHEMBL3623479,CCCSc1nc(NN=Cc2cccs2)c2nnn(C3CC(O)C(O)C3O)c2n1,9.817,Anticancer activity against human A549 cells
+CHEMBL3655746,CC1(CCCN1c1nc(Nc2cc([nH]n2)C(N)=O)c2cccn2n1)C(=O)NC1CCCN(CC2CC2)C1,9.814,Pyrrolotriazine kinase inhibitors
+CHEMBL2092762,CCCCc1ccc(NC2=NC(=O)c3ncn(C4OC(CO)C(O)C4O)c3N2)cc1,9.81,
+CHEMBL3665200,CCC(CO)Nc1ncc(c(NC2CCCN(C2)S(C)(=O)=O)n1)-c1cnc2[nH]ccc2n1,9.806,jak inhibitor
+CHEMBL3335696,CCC(CO)Nc1ncc(c(NC2CCCN(C2)S(C)(=O)=O)n1)-c1cnc2[nH]ccc2n1,9.806,jak inhibitor
